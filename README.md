@@ -1,2 +1,2 @@
 # mirror
-This is a project to improve the functionality and the look of a magic mirror using raspi. The idea is to make it look awesome, allow for easy control, and improved functionality. Stay tuned...
+working on being able to supply updates to a raspberry pi running a customized version of magic mirror. 
